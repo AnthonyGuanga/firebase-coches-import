@@ -14,4 +14,4 @@ node importar_coches_github.js
 ### En Firestore tendrás la colección coches llena.
 
 ### X Borrar documentos de la colección
-node delete.js
+node delete_coches.js
